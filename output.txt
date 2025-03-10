@@ -1,0 +1,4 @@
+This is a sample text file containing various words of different lengths.
+It includes three-letter words like c--, c--, c--, c-- C++.
+There c-- also longer words such as elephant, tiger, c-- python.
+This file serves as input c-- testing c-- program.
